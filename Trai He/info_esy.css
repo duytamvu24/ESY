@@ -1,0 +1,30 @@
+.top_head{
+    background-color: wheat;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font: bold;
+    font-size: 80px;
+}
+
+.website_info{
+    position:absolute;
+    background-color: wheat;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.credits{
+    background-color:wheat;
+    border-radius: 10px;
+    
+    display: grid;
+}
+
+.nutzungsbedingungen{
+    display: grid;
+}
+
+.datenschutz{
+    display: grid;
+}
